@@ -1,0 +1,5 @@
+[user]
+	name = meursault
+	email = 156793267+imeursault@users.noreply.github.com
+[core]
+	excludesfile = ~/.gitignore
